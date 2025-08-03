@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #222 ;
+    color: white;
+}
+
+#light {
+    font-size: 2em;
+    margin: 20px;
+}
+
+#car {
+    width: 300px;
+    cursor: pointer;
+    margin-top: 40px;
+}
+
+#result {
+    font-size: 1.5em;
+    margin-top: 30px;
+    color: lime;
+}
+
+#restartBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+    background-color: #ff4747;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#restartBtn:hover {
+    background-color: #ff1c1c; 
+}
